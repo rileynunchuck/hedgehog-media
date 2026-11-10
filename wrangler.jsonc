@@ -1,0 +1,7 @@
+{
+  // Static file host for Hedgehog Chef social media videos.
+  // Files in ./public are served at https://media.hedgehogchef.com/
+  "name": "hedgehog-media",
+  "compatibility_date": "2026-11-01",
+  "assets": { "directory": "./public" }
+}
